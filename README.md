@@ -10,3 +10,6 @@ Microsoft Excel [download here](http:\\microsoft.com)
 google query sheet
 sleect table*from table1 where condition= met
 ~~~
+|heading1|heading2|heading3|
+|-------|---------|--------|
+|data1|data2|data3|
