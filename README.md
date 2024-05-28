@@ -3,3 +3,10 @@
 
 # Tool used 
 Microsoft Excel [download here](http:\\microsoft.com)
+
+ # market review
+...
+~~~
+google query sheet
+sleect table*from table1 where condition meant
+~~~
