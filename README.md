@@ -4,7 +4,7 @@
 # Tool used 
 Microsoft Excel [download here](http:\\microsoft.com)
 
-![](slit-trouser.jpeg)
+![](slit-trouser.jpg)
 
 ~~~
 google query sheet
